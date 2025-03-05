@@ -1,0 +1,9 @@
+Flask
+Gunicorn
+graycode==1.0.5
+numpy==1.26.4
+scikit-learn==1.5.1
+torch==2.6.0
+torchaudio==2.6.0
+whisper==1.1.10
+transformers==4.35.0

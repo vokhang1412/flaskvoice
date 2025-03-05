@@ -63,7 +63,7 @@ model.eval()
 #     return whisper_model
 
 # Load mô hình khi ứng dụng khởi động
-whisper_model = whisper.load_model("large")
+whisper_model = whisper.load_model("medium")
 
 NUMBER_MAP = {
     "không": "0", "một": "1", "hai": "2", "ba": "3", "bốn": "4",
